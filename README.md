@@ -1,11 +1,11 @@
 # Hello, World!
 
-## 🎓 Sobre mim
-Sou estudante do **2º período de Engenharia de Software no IFPB**. Tenho interesse em desenvolvimento de software com foco em boas práticas, estruturas de dados, sistemas web e soluções eficientes. Busco sempre evoluir minhas habilidades através de estudos contínuos e participação em projetos.
+## 🎓 About Me
+I am currently a **2nd-semester Software Engineering student at IFPB**. I have an interest in software development with a focus on best practices, data structures, web systems, and efficient solutions. I am always striving to enhance my skills through continuous learning and involvement in projects.
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,22 +23,25 @@ Sou estudante do **2º período de Engenharia de Software no IFPB**. Tenho inter
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-### Outras Competências
-- Estruturas de Dados  
-- Lógica de Programação
----
 
-## 📌 Áreas de Interesse
-- Desenvolvimento Backend  
-- Desenvolvimento Web  
-- Engenharia de Software  
-- Arquitetura de Sistemas  
-- Algoritmos e Eficiência
+### Other Skills
+- Data Structures  
+- Programming Logic
 
 ---
 
-## 📫 Contato
+## 📌 Areas of Interest
+- Backend Development  
+- Web Development  
+- Software Engineering  
+- Systems Architecture  
+- Algorithms and Efficiency
+
+---
+
+## 📫 Contact
 - Email: **odilonpontes7@gmail.com**
+
 ---
 
-Obrigado por visitar meu perfil!
+Thank you for visiting my profile!
